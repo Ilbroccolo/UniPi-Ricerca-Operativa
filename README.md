@@ -14,7 +14,7 @@
 
 | Proprietà | Dettaglio |
 | :--- | :--- |
-| 👨‍🏫 **Docente/i** | Prof. Luca Mencarelli |
+| 👨‍🏫 **Docente/i** | Prof. Luca Mencarelli, Prof. Novellani |
 | 📝 **Modalità d'Esame** | Compitini (parziali) / Scritto + Orale |
 | 🎓 **Crediti** | 6 CFU |
 | 📅 **Collocazione** | 2° Anno · 2° Semestre |
@@ -22,7 +22,13 @@
 
 > 📌 **Note d'Esame:** 1° Compitino (metà novembre) su Modellazione e Grafi; disponibili Bibbia LaTeX, formulari e 24 lezioni in Markdown.
 
-> 💡 **Nota Compitini:** Se non è previsto un form esterno, iscriviti all'appello su `esami.unipi.it` scrivendo **`Orale Compitini`** nel campo **Note**.
+---
+
+## 🗣️ Consigli, Domande d'Esame &amp; Lore (Chat Telegram)
+- Scritto definito 'una gara di velocità con la calcolatrice' (Simplesso, duale, sensitività, zaino con DP e Branch & Bound).
+- Se non c'è un form esterno per i compitini, iscriversi su esami.unipi.it scrivendo 'Orale Compitini' nelle Note.
+- Prof. Mencarelli: lezioni heavy sulle dimostrazioni, ma all'orale guida nel ragionamento. Domande fisse: Simplesso primale/duale (significato grafico), B&B zaino, Dualità forte/debole, Scarti complementari, Base primale degenere, Cammini aumentanti / Flusso massimo / Grafo residuo.
+- Prof. Novellani: slide chiarissime su Teams e grande disponibilità.
 
 ---
 
